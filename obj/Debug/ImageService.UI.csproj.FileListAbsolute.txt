@@ -1,0 +1,66 @@
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\bin\Debug\ImageService.UI.exe.config
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\bin\Debug\ImageService.UI.exe
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\bin\Debug\ImageService.UI.pdb
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\bin\Debug\ImageService.Infrastructure.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\bin\Debug\ImageService.Logging.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\bin\Debug\Newtonsoft.Json.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\bin\Debug\Prism.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\bin\Debug\Prism.Wpf.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\bin\Debug\System.Windows.Interactivity.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\bin\Debug\ImageService.Infrastructure.pdb
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\bin\Debug\ImageService.Logging.pdb
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\bin\Debug\Newtonsoft.Json.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\bin\Debug\Prism.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\bin\Debug\Prism.Wpf.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\obj\Debug\ImageService.UI.csprojResolveAssemblyReference.cache
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\obj\Debug\MainWindow.g.cs
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\obj\Debug\Views\LogsView.g.cs
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\obj\Debug\Views\SettingsView.g.cs
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\obj\Debug\App.g.cs
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\obj\Debug\ImageService.UI_MarkupCompile.cache
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\obj\Debug\ImageService.UI_MarkupCompile.lref
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\obj\Debug\MainWindow.baml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\obj\Debug\Views\LogsView.baml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\obj\Debug\Views\SettingsView.baml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\obj\Debug\ImageService.UI.g.resources
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\obj\Debug\ImageService.UI.Properties.Resources.resources
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\obj\Debug\ImageService.UI.csproj.GenerateResource.Cache
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\obj\Debug\ImageService.UI.exe
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.UI\obj\Debug\ImageService.UI.pdb
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\bin\Debug\ImageService.UI.exe.config
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\obj\Debug\ImageService.UI.exe
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\obj\Debug\ImageService.UI.pdb
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\bin\Debug\ImageService.UI.exe
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\bin\Debug\ImageService.UI.pdb
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\bin\Debug\ImageService.Infrastructure.dll
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\bin\Debug\ImageService.Logging.dll
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\bin\Debug\Prism.dll
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\bin\Debug\Prism.Wpf.dll
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\bin\Debug\ImageService.Infrastructure.pdb
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\bin\Debug\ImageService.Logging.pdb
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\bin\Debug\Prism.xml
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\bin\Debug\Prism.Wpf.xml
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\obj\Debug\ImageService.UI.csprojResolveAssemblyReference.cache
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\obj\Debug\MainWindow.g.cs
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\obj\Debug\Views\LogsView.g.cs
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\obj\Debug\Views\SettingsView.g.cs
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\obj\Debug\App.g.cs
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\obj\Debug\ImageService.UI_MarkupCompile.cache
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\obj\Debug\ImageService.UI_MarkupCompile.lref
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\obj\Debug\MainWindow.baml
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\obj\Debug\Views\LogsView.baml
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\obj\Debug\Views\SettingsView.baml
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\obj\Debug\ImageService.UI.g.resources
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\obj\Debug\ImageService.UI.Properties.Resources.resources
+C:\Users\eyall\Desktop\nubee\ImageService\ImageService.UI\obj\Debug\ImageService.UI.csproj.GenerateResource.Cache
