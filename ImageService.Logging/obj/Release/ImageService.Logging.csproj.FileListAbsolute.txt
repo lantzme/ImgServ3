@@ -1,0 +1,4 @@
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Logging\bin\Release\ImageService.Logging.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Logging\bin\Release\ImageService.Logging.pdb
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Logging\obj\Release\ImageService.Logging.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Logging\obj\Release\ImageService.Logging.pdb
