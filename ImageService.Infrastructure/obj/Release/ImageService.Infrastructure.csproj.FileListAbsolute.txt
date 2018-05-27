@@ -1,0 +1,4 @@
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Infrastructure\bin\Release\ImageService.Infrastructure.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Infrastructure\bin\Release\ImageService.Infrastructure.pdb
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Infrastructure\obj\Release\ImageService.Infrastructure.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService.Infrastructure\obj\Release\ImageService.Infrastructure.pdb
