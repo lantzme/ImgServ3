@@ -1,0 +1,15 @@
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService\bin\Release\ImageService.exe.config
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService\bin\Release\ImageService.exe
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService\bin\Release\ImageService.pdb
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService\bin\Release\ImageService.Infrastructure.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService\bin\Release\ImageService.Logging.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService\bin\Release\Newtonsoft.Json.dll
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService\bin\Release\ImageService.Infrastructure.pdb
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService\bin\Release\ImageService.Logging.pdb
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService\bin\Release\Newtonsoft.Json.xml
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService\obj\Release\ImageService.csprojResolveAssemblyReference.cache
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService\obj\Release\ImageService.ImageService.resources
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService\obj\Release\ImageService.ProjectInstaller.resources
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService\obj\Release\ImageService.csproj.GenerateResource.Cache
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService\obj\Release\ImageService.exe
+D:\Yuval\תואר\שנה ב\סמסטר ב\תכנות מתקדם 2\תרגילים\EX2\ImageService\ImageService\obj\Release\ImageService.pdb
